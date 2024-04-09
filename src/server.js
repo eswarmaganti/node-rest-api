@@ -11,7 +11,12 @@ app.get("/", (req, res) => {
   return res.send(`
     <html>
         <body>
-            <h1>Hello World from Node REST API</h1>
+            <h1>Nodejs REST API</h1>
+            <ul>
+              <li>Developer: Eswar Krishna Maganti</li>
+              <li>Email: maganti.ek@gmail.com</li>
+              <li>GitHub: https://github.com/eswarmaganti/ </li>
+            </ul>
         </body>
     </html>`);
 });
