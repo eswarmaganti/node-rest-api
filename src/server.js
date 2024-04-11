@@ -14,6 +14,7 @@ app.get("/", (req, res) => {
             <h1>Nodejs REST API</h1>
             <ul>
               <li>Developer: Eswar Krishna Maganti</li>
+              <li>Skills: MERN, Python, AWS, Ansible, Terraform,Docker, Jenkins</li>
               <li>Email: maganti.ek@gmail.com</li>
               <li>GitHub: https://github.com/eswarmaganti/ </li>
             </ul>
